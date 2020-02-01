@@ -1,5 +1,5 @@
 # webpack-starter-pack
-:fire: A simple webpack starter kit for your development needs.
+:fire: A simple webpack starter kit for react.
 
 
 ### Installation
