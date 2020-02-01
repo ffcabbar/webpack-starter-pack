@@ -20,6 +20,9 @@ npm run start
 npm run build
 ```
 
+### Requirements
+* [Node](https://nodejs.org) > 10.0
+
 ### Features:
 
 * ES6 Support via [babel](https://babeljs.io/) (v7)
